@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Bryan-netizen
+- 👀 I’m interested in Linux and it various applications
+- 🌱 I’m currently learning how to write bash data pipelines
+- 📫 How to reach me :: bmkamunyu@gmail.com
+
+<!---
+Bryan-netizen/Bryan-netizen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
