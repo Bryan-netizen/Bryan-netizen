@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bryan-netizen (github baptized me)
 - 👀 I’m interested in Linux and it various applications
-- 🌱 I’m currently learning how to write bash data pipelines
+- 🌱 I’m currently learning how to write bash data pipelines, infosec & the like
 - 📫 How to reach me :: linuxbryk@gmail.com
 
 <!---
