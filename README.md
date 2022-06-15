@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bryan-netizen (github baptized me)
 - 👀 I’m interested in Linux and it various applications
 - 🌱 I’m currently learning how to write bash data pipelines, infosec & the like
-- 📫 How to reach me :: bryk-git@proton.me
+- 📫 How to reach me :: bmkamunyu@protonmail.com
 
 <!---
 Bryan-netizen/Bryan-netizen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
